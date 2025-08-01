@@ -35,7 +35,7 @@ Requirements for the software and other tools to build, test and push
 Follow these steps to get the HR backend running locally:
 1. **Clone the Repository**
 ```bash
-    git clone [https://github.com/Imaado8/Finalproject2.git]
+    git clone [https://github.com/Imaado8/m2-core-project.git]
    ```
 3. **Install dependencies**
    Navigate to backend then install dependencies
